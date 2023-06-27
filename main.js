@@ -14,5 +14,5 @@ function generateKey(length, lst) {
 }
 
 
-const key = generateKey(6, characters)
+const key = generateKey(16, characters)
 console.log(key); // eg599gb60q926j8i
